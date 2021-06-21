@@ -41,10 +41,26 @@
 | |[java-chess-step2](https://github.com/ohjoohyung/java-chess/tree/step2)|[PR](https://github.com/woowacourse/java-chess/pull/255)|
 |JS 투두리스트|[js-todo-list-step1](https://github.com/ohjoohyung/js-todo-list-step1/tree/ohjoohyung)|[PR](https://github.com/woowacourse/js-todo-list-step1/pull/25)|
 
+
+<br/>
+
+## Level 2 - Web, Spring Framework, Deployment
+
+|Project|Repository|Pull Request|
+|----|----|------|
+|체스|[jwp-chess-step1,2](https://github.com/ohjoohyung/jwp-chess/tree/step1)|[PR](https://github.com/woowacourse/jwp-chess/pull/256)|
+| |[jwp-chess-step3](https://github.com/ohjoohyung/jwp-chess/tree/step2)|[PR](https://github.com/woowacourse/jwp-chess/pull/295)|
+|지하철 노선도 관리|[atdd-subway-step1,2](https://github.com/ohjoohyung/atdd-subway-map/tree/step1)|[PR](https://github.com/woowacourse/atdd-subway-map/pull/78)|
+| |[atdd-subway-step3](https://github.com/ohjoohyung/atdd-subway-map/tree/step2)|[PR](https://github.com/woowacourse/atdd-subway-map/pull/131)|
+|지하철 경로 조회|[atdd-subway-path1,2](https://github.com/ohjoohyung/atdd-subway-path/tree/step1)|[PR](https://github.com/woowacourse/java-blackjack/pull/144)|
+| |[atdd-subway-path3](https://github.com/ohjoohyung/atdd-subway-path/tree/step2)|[PR](https://github.com/woowacourse/atdd-subway-path/pull/113)|
+|지하철 협업 미션|[atdd-subway-fare1,2,3,4](https://github.com/ohjoohyung/atdd-subway-fare/tree/step1)|[PR](https://github.com/woowacourse/atdd-subway-fare/pull/25)|
+
 <br/>
 
 ## 글쓰기 미션
 
 |Project|Repository|Pull Request|
 |----|----|------|
-|Level 1 글쓰기|[우아한테크코스 한 달 생활기](https://github.com/ohjoohyung/woowa-writing-3/tree/ohjoohyung)|[PR](https://github.com/woowacourse/woowa-writing-3/pull/55)|
+|Level 1 글쓰기|[우아한테크코스 한 달 생활기](https://github.com/ohjoohyung/woowa-writing-3/tree/ohjoohyung/level1)|[PR](https://github.com/woowacourse/woowa-writing-3/pull/55)|
+|Level 2 글쓰기|[우아한테크코스에서 찾은 나만의 효과적인 공부법](https://github.com/ohjoohyung/woowa-writing-3/tree/ohjoohyung/level2)|[PR](https://github.com/woowacourse/woowa-writing-3/pull/119)|
