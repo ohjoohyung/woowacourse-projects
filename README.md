@@ -72,7 +72,7 @@
 | |[jwp-chess-step3](https://github.com/ohjoohyung/jwp-chess/tree/step2)|[PR](https://github.com/woowacourse/jwp-chess/pull/295)|
 |지하철 노선도 관리|[atdd-subway-step1,2](https://github.com/ohjoohyung/atdd-subway-map/tree/step1)|[PR](https://github.com/woowacourse/atdd-subway-map/pull/78)|
 | |[atdd-subway-step3](https://github.com/ohjoohyung/atdd-subway-map/tree/step2)|[PR](https://github.com/woowacourse/atdd-subway-map/pull/131)|
-|지하철 경로 조회|[atdd-subway-path1,2](https://github.com/ohjoohyung/atdd-subway-path/tree/step1)|[PR]https://github.com/woowacourse/atdd-subway-path/pull/72)|
+|지하철 경로 조회|[atdd-subway-path1,2](https://github.com/ohjoohyung/atdd-subway-path/tree/step1)|[PR](https://github.com/woowacourse/atdd-subway-path/pull/72)|
 | |[atdd-subway-path3](https://github.com/ohjoohyung/atdd-subway-path/tree/step2)|[PR](https://github.com/woowacourse/atdd-subway-path/pull/113)|
 |지하철 협업 미션|[atdd-subway-fare1,2,3,4](https://github.com/ohjoohyung/atdd-subway-fare/tree/step1)|[PR](https://github.com/woowacourse/atdd-subway-fare/pull/25)|
 
